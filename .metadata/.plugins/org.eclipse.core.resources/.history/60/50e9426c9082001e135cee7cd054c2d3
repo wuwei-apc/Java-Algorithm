@@ -1,0 +1,27 @@
+/**
+ * 
+ */
+package Day01;
+
+/**
+ * @author zpc20
+ *
+ */
+public class code01_PrintB {
+	
+	/**
+	 * 打印32进制数
+	 */
+	private static void printB(int num) {
+		  
+	}
+	 /**
+	 * @param args
+	 */
+	  public static void main(String[] args) { // TODO Auto-generated method stub
+	      
+	  }
+	 
+	 
+
+}

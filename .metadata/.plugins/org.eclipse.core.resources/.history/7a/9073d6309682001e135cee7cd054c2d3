@@ -1,0 +1,21 @@
+package Day01;
+
+public class factrial {
+
+	private static void f1() {
+		
+	}
+	private static int factorial(int n) {
+		int re = 1; 
+		for(int i=1;i<=n;i++) {
+			re*=i;
+		}
+		return re;
+	}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+       
+	}
+
+}

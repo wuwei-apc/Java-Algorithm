@@ -1,0 +1,11 @@
+package Base;
+
+public class Random1_5_0_7 {
+    
+	public static int f1() {
+		return (int)Math.random()*5;
+	}
+	public static void main(String[] args) {
+		System.out.println("");
+	}
+}

@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package Sort;
+
+/**
+ * @author zpc20
+ *
+ */
+public class InsertSort {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

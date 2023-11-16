@@ -1,0 +1,21 @@
+/**
+ * 
+ */
+package Day01;
+
+/**
+ * @author zpc20
+ *
+ */
+public class code01_PrintB {
+
+	 /**
+	 * @param args
+	 */
+	  public static void main(String[] args) { // TODO Auto-generated method stub
+	      
+	  }
+	 
+	 
+
+}
